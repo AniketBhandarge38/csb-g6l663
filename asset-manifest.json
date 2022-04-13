@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://aniketbhandarge38.github.io/csb-g6l663/static/css/main.3054182f.chunk.css",
+    "main.js": "https://aniketbhandarge38.github.io/csb-g6l663/static/js/main.78473eeb.chunk.js",
+    "main.js.map": "https://aniketbhandarge38.github.io/csb-g6l663/static/js/main.78473eeb.chunk.js.map",
+    "runtime-main.js": "https://aniketbhandarge38.github.io/csb-g6l663/static/js/runtime-main.af44d9e8.js",
+    "runtime-main.js.map": "https://aniketbhandarge38.github.io/csb-g6l663/static/js/runtime-main.af44d9e8.js.map",
+    "static/js/2.5cae5e3a.chunk.js": "https://aniketbhandarge38.github.io/csb-g6l663/static/js/2.5cae5e3a.chunk.js",
+    "static/js/2.5cae5e3a.chunk.js.map": "https://aniketbhandarge38.github.io/csb-g6l663/static/js/2.5cae5e3a.chunk.js.map",
+    "index.html": "https://aniketbhandarge38.github.io/csb-g6l663/index.html",
+    "static/css/main.3054182f.chunk.css.map": "https://aniketbhandarge38.github.io/csb-g6l663/static/css/main.3054182f.chunk.css.map",
+    "static/js/2.5cae5e3a.chunk.js.LICENSE.txt": "https://aniketbhandarge38.github.io/csb-g6l663/static/js/2.5cae5e3a.chunk.js.LICENSE.txt",
+    "static/media/cat.jfif": "https://aniketbhandarge38.github.io/csb-g6l663/static/media/cat.15f0d736.jfif",
+    "static/media/collage.png": "https://aniketbhandarge38.github.io/csb-g6l663/static/media/collage.122aaca5.png",
+    "static/media/download.jpg": "https://aniketbhandarge38.github.io/csb-g6l663/static/media/download.8e54194b.jpg",
+    "static/media/logo.png": "https://aniketbhandarge38.github.io/csb-g6l663/static/media/logo.32edb4ce.png",
+    "static/media/phone.webp": "https://aniketbhandarge38.github.io/csb-g6l663/static/media/phone.f777b7db.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af44d9e8.js",
+    "static/js/2.5cae5e3a.chunk.js",
+    "static/css/main.3054182f.chunk.css",
+    "static/js/main.78473eeb.chunk.js"
+  ]
+}
